@@ -10,8 +10,12 @@ This Java program demonstrates how to perform encryption and decryption using th
 
 1. Clone or download the repository to your local machine.
 
-2. Navigate to the directory containing the Java source code (`TextEncryption.java`).
+2. Navigate to the directory containing the Java source code (`\Text\src\TextEncryption.java`).
 
 3. Run the Java file using the following command:
    ```bash
    java TextEncryption.java
+
+or
+
+run .jar file
