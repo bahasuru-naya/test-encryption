@@ -18,4 +18,4 @@ This Java program demonstrates how to perform encryption and decryption using th
 
 or
 
-run .jar file
+just run .jar file
